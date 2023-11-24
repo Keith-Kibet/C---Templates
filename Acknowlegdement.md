@@ -39,6 +39,8 @@ NOTE:The pointers are not included
 
 - `/Templates`: This folder contains detailed information about templates in C++.
 
+- Each folder contains its own ReadMe file
+
 ## Usage
 
 To compile the project, navigate to the project directory and to the desired folder, then open to the Lesson_(number).
