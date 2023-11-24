@@ -73,3 +73,13 @@ When compiling and running C++ programs, you may encounter the following errors:
 
 When encountering errors, it is important to carefully read the error messages provided by the compiler or runtime environment(from command 1). These messages often contain valuable information about the cause of the error and can help in troubleshooting and resolving the issue.
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
