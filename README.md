@@ -7,22 +7,20 @@ Secondly, I would also like to thank my machine(laptop) which helped me a lot fr
 
 # Project Title : C++ in relation to Advanced Programming
 
-
- * @file main.cpp
- * @brief This is a C++ project that demonstrates the usage of XYZ feature.
+* This is a C++ project that demonstrates the usage of XYZ feature.
 
  # Required Installations:
-   - Linux:
+  ### - Linux:
     - C++ compiler (e.g., g++)
     - Build system (e.g., make or CMake)
     - IDE or text editor (e.g., Visual Studio Code, Sublime Text)
  
- # - Windows:
+  ### - Windows:
     - C++ compiler (e.g., MinGW, Visual Studio)
     - Build system (e.g., make or CMake)
     - IDE or text editor (e.g., Visual Studio, Code::Blocks)
  
-  # note
+  ### note
   - Make sure to install the required dependencies before running the project.
  
 ## Description
